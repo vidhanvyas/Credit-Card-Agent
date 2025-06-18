@@ -143,19 +143,7 @@ Each entry contains:
 * "I earn ₹80,000 and spend on travel and fuel. I want lounge and cashback."
 * "My credit score is 740 and I shop online a lot."
 
----
 
-## 📜 License
-
-MIT
-
----
-
-## 🙌 Credits
-
-* Built by \[Your Name]
-* Inspired by the Times Internet Credit Card Challenge
-* Groq, Streamlit, Open Source contributors
 
 ---
 
@@ -167,7 +155,3 @@ MIT
 * Multilingual input parsing (Hindi, Hinglish)
 
 ---
-
-## 📬 Feedback
-
-Open an [issue](https://github.com/your-repo/issues) or tweet [@yourhandle](https://twitter.com/yourhandle).
