@@ -18,7 +18,7 @@ A conversational AI-powered credit card recommendation tool for Indian users, po
 
 ## 🚀 Demo
 
-[Live Streamlit App](https://share.streamlit.io/your-repo)
+[Live Streamlit App]([https://credit-card-agent.streamlit.app/])
 
 ---
 
